@@ -10,6 +10,12 @@ var cidade = 'Barueri',
     habitantes = '250000', 
     quantidadecachorros = '3800';
 
-console.log (cidade, habitantes, quantidadecachorros)
+
+var datafinal;
+
+console.log(datafinal)
+var dataFinal = '29/12/2022';
+
+
 
 
