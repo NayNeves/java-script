@@ -16,6 +16,14 @@ var datafinal;
 console.log(datafinal)
 var dataFinal = '29/12/2022';
 
+var primeiro = "1";
+var segundo = 2;
+var quarto = 4;
+
+var total = primeiro + segundo + quarto;
+console.log(total)
+
+
 
 
 
